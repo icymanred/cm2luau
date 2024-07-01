@@ -1,4 +1,4 @@
-local blockDefs:{[string]:number} = {
+local blockDefs = {
  NOR = 0,
  AND = 1,
  OR = 2,
